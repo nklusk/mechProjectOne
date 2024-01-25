@@ -8,3 +8,7 @@ the wave's height and note being played.
 
 https://github.com/nklusk/mechProjectOne/assets/144201569/249037d8-aee0-46b7-bb0e-3d8e1b630d7c
 
+
+
+https://github.com/nklusk/mechProjectOne/assets/144201569/6610e66b-2bef-41d9-9f92-0ff3e63a4f50
+
